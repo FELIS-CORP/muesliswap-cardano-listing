@@ -1,4 +1,4 @@
-# MuesliSwap token listing
+# MuesliSwap token listing 🥣
 
 The official repository to request a token listing @ AdaMuesliSwap
 
