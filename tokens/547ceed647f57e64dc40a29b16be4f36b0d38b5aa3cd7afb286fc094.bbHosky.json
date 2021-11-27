@@ -1,0 +1,9 @@
+{
+    "policyId": "547ceed647f57e64dc40a29b16be4f36b0d38b5aa3cd7afb286fc094",
+    "name": "bbHosky", 
+    "symbol": "bbHosky", 
+    "website": "https://babyhosky.com", 
+    "description": "Hosky had a fun weekend and ended up with 2 billion babies..",
+    "totalSupply": 2000000000,
+    "amounts": [200000, 500000, 1000000, 2000000]
+}

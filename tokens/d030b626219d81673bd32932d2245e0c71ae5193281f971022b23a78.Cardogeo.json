@@ -1,0 +1,9 @@
+{
+    "policyId": "d030b626219d81673bd32932d2245e0c71ae5193281f971022b23a78",
+    "name": "Cardogeo", 
+    "symbol": "CDOG", 
+    "website": "https://www.cardogeo.com", 
+    "description": "The friendly Shiba we know and love but with 3rd gen Blockchain technology",
+    "totalSupply": 10000000000,
+    "amounts": [1000000, 2000000, 10000000, 20000000]
+}

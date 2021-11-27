@@ -1,0 +1,9 @@
+{
+    "policyId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
+    "name": "HOSKY", 
+    "symbol": "$HOSKY", 
+    "website": "https://hosky.io/", 
+    "description": "The Premiere Low-Quality S**t Coin Doggo Meme Token exclusively on the Cardano Ecosystem. We are THE s**t, we are not s**t.",
+    "totalSupply": 1000000000000000,
+    "amounts": [1000000,20000000, 50000000, 100000000, 200000000, 1000000000]
+}

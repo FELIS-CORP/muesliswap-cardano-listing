@@ -1,0 +1,9 @@
+{
+    "policyId": "2aa9c1557fcf8e7caa049fa0911a8724a1cdaf8037fe0b431c6ac664",
+    "name": "PIGYToken",
+    "symbol": "PIGY",    
+    "website": "https://pigytoken.com/",
+    "description": "The Community-Driven Token for Cardano Stake-Pool-Operators and Delegators",
+    "totalSupply": 100000000000,
+    "amounts": [1000000, 2000000, 10000000, 20000000]
+}
